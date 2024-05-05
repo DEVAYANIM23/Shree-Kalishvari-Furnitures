@@ -1,0 +1,9 @@
+/* AdminDashboard.css */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #1e728f; /* Adjust as needed */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a shadow for better visibility */
+}
